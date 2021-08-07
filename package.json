@@ -1,6 +1,6 @@
 {
   "name": "superProductivity",
-  "version": "7.5.0-rc.0",
+  "version": "7.5.0",
   "description": "Personal Task Management App to help you with your daily struggle with JIRA etc.",
   "main": "./electron/main.js",
   "author": "Johannes Millan <contact@super-productivity.com> (http://super-productivity.com)",
@@ -124,7 +124,7 @@
     "@angular/compiler-cli": "^12.1.0",
     "@angular/core": "^12.1.0",
     "@angular/forms": "^12.1.0",
-    "@angular/language-service": "^12.1.1",
+    "@angular/language-service": "^12.2.0",
     "@angular/material": "^11.2.9",
     "@angular/material-moment-adapter": "^11.2.9",
     "@angular/platform-browser": "^12.1.0",
